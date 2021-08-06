@@ -1,0 +1,15 @@
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ShopBridge.Data.deps.json
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ShopBridge.Data.dll
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ref\ShopBridge.Data.dll
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ShopBridge.Data.pdb
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ShopBridge.Entities.dll
+C:\Users\Him\source\repos\ShopBridge.Data\bin\Debug\net5.0\ShopBridge.Entities.pdb
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.csprojAssemblyReference.cache
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.AssemblyInfoInputs.cache
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.AssemblyInfo.cs
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.csproj.CopyComplete
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.dll
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ref\ShopBridge.Data.dll
+C:\Users\Him\source\repos\ShopBridge.Data\obj\Debug\net5.0\ShopBridge.Data.pdb

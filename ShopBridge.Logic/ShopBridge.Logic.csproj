@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopBridge.Data\ShopBridge.Data.csproj" />
+    <ProjectReference Include="..\ShopBridge.Entities\ShopBridge.Entities.csproj" />
+    <ProjectReference Include="..\ShopBridge.Models\ShopBridge.Models.csproj" />
+  </ItemGroup>
+
+</Project>
